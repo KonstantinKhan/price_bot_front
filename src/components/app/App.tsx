@@ -9,7 +9,7 @@ const App: FC = () => {
 
     return (
         <div className={"App"}>
-            <Button label="click-click"/>
+            <Button label="click-click-click"/>
         </div>
     )
 }
