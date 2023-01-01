@@ -1,7 +1,7 @@
-import React, {FC} from 'react';
-import {Button} from "primereact/button";
+import React, {FC} from 'react'
 
 import "./app.sass"
+import Product from "../product/Product"
 
 const App: FC = () => {
 
@@ -9,9 +9,9 @@ const App: FC = () => {
 
     return (
         <div className={"App"}>
-            <Button label="click-click-click"/>
+            <Product/>
         </div>
     )
 }
 
-export default App;
+export default App
