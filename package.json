@@ -1,5 +1,5 @@
 {
-  "name": "price_bot",
+  "name": "price_bot_front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
